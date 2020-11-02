@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437526231098",
+    "firebase_url": "https://dolarya-2d2ae.firebaseio.com",
+    "project_id": "dolarya-2d2ae",
+    "storage_bucket": "dolarya-2d2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437526231098:android:5eea2e82f720cd197ddd03",
+        "android_client_info": {
+          "package_name": "com.example.dolarya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437526231098-csbpl0k0dlfgh5u17ulehe3j7frfog3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAahLXpFXBtoJ70H1-XvEh8J3wRRGw_2xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437526231098-csbpl0k0dlfgh5u17ulehe3j7frfog3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

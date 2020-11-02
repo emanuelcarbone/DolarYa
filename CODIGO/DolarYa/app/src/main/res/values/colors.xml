@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDolarYaPrimary">#85BB65</color>
+    <color name="colorDolarYaGris">#909090</color>
+    <color name="colorDolarYaAzul">#00A8EA</color>
+    <color name="colorDolarYaVioleta">#9B65BB</color>
+    <color name="colorDolarYaNegro">#060904</color>
+    <color name="colorDolarYaBackground">#EEEEEE</color>
+</resources>

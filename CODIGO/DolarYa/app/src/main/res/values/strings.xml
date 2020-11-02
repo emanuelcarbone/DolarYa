@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DolarYa</string>
+    <string name="soa_base_url">http://so-unlam.net.ar/api/api/</string>
+</resources>
